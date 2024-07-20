@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Disable GitHub textarea codeframe
-// @version      0.1.0
+// @version      0.1.1
+// @namespace    com.tasky.machine
 // @license      MIT
 // @homepageURL  https://github.com/taskylizard/github-remove-shit-textarea
 // @description  Disables the garbage textarea.
